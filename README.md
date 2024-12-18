@@ -18,4 +18,4 @@ Like for example: You press CTRL+C and something happens.
 
 <h2> Documentation </h2>
 
-See more at our [github page!]()
+See more at our [github page!](https://bludmas.github.io/MultiBindSystem/)
