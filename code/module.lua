@@ -4,7 +4,7 @@
 
 Copyright: MIT
 
-Documentation: None Yet.
+Documentation: https://github.com/bludmas/MultiBindSystem
 
 Version: 1.0.0
 
@@ -158,7 +158,7 @@ end
 --[[
     Constructor for Multi-Bind.
 
-    See Documentation: https://www.roblox.com
+    See Documentation: https://github.com/bludmas/MultiBindSystem
 ]]
 function SYSTEM.new(Binds: {Enum.KeyCode}, Func, NewSettings: {any})
 	if not Binds or not CheckArray(Binds) then
