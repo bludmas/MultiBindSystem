@@ -12,7 +12,7 @@ local MultiBind = Module.new(
         [2] = KeyCode.X,
         [3] = KeyCode.C,
     }, 
-    function() -- Function to call on trigger
+    function() -- Function to call on call
         -- Do something
         print("UwU")
     end,
